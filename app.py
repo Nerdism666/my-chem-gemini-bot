@@ -1,6 +1,6 @@
 import os
 import streamlit as st
-from dotenv import load_dotenv # type: ignore
+from dotenv import load_dotenv
 from google import genai
 st.set_page_config(
     page_title="Jimmy's AI Chatbot",
