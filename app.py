@@ -62,7 +62,7 @@ if prompt:
     elif "who is elijah" in user_lower:
         answer = "Bot: Elijah is a person you might know.\nHe is a good friend of D-Jinming and is known for his kindness and handsomeness! ✍️ A figure comparable to Tronald Dump"
         image_path = "ChatGPT Image of Elijah.png"
-        image_caption = "His hadsome photos"
+        image_caption = "His handsome photos"
     elif "who's d-jinming" in user_lower or "who is d-jinming" in user_lower:
         answer = """Bot: D-Jinming is the creator of this chatbot.
 He is a talented programmer and a great friend! 😊
