@@ -1,5 +1,3 @@
-import asyncio
-asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 import os
 import streamlit as st
 from dotenv import load_dotenv # type: ignore
